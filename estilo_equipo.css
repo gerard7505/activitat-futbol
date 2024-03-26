@@ -1,0 +1,120 @@
+
+body {
+    font-family: 'Lato', sans-serif; 
+}
+
+
+header {
+    background-color: #673ab7;
+    padding: 20px; 
+    margin-bottom: 20px; 
+    position: relative;
+}
+
+header img {
+    position: absolute; 
+    left: 10px;
+    top: 50%; 
+    transform: translateY(-50%); 
+}
+
+header h1 {
+    text-align: center; 
+}
+
+
+.equipo {
+    display: inline-block; 
+   
+}
+
+
+.fundacion {
+   
+}
+
+.nombre-equipo {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black; 
+  
+}
+
+
+.imagen-equipo {
+    height: 120px; 
+}
+
+
+.estadio {
+    border-top: 1px solid black; 
+    border-bottom: 1px solid black; 
+    
+}
+
+
+.competiciones img {
+    height: 50px; 
+
+}
+
+
+button.equipo {
+   
+    border: none;
+    cursor: pointer;
+   
+}
+
+
+button.equipo:hover {
+    cursor: pointer;
+}
+
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+.nombre-equipo {
+  
+}
+
+
+.entrenador {
+  
+}
+
+
+.imagen-equipo {
+    position: relative;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+
+.tabla-jugadores {
+    border-collapse: collapse; 
+    position: relative; 
+    left: 50%; 
+    transform: translateX(-50%); 
+}
+
+.tabla-jugadores th,
+.tabla-jugadores td {
+   
+    border: 1px solid black; 
+    padding: 8px;
+    text-align: center; 
+}
+
+
+.tabla-jugadores th {
+    background-color: #ccc; 
+   
+}
+
+
+.tabla-jugadores td {
+    
+}

@@ -1,0 +1,20 @@
+header{
+    border: 1px solid green;
+}
+
+main{
+    clear: both;
+}
+
+.equipo{
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.equipo-estadio{
+    color: #673ab7;
+}
+
+.competicion-logo{
+    height: 100px;
+}
